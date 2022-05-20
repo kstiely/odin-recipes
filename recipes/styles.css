@@ -8,3 +8,18 @@
     height: auto;
     width: 500px;
 }
+
+.desc p{
+    background-color: black;
+    color: white;
+}
+
+.ingredients li{
+    background-color: cadetblue;
+    text-align: center;
+}
+
+.steps li{
+    font-size: 20px;
+    font-weight: 700;
+}
