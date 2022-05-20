@@ -1,0 +1,14 @@
+#title {
+    font-size: 64px;
+    text-align: center;
+    text-shadow: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.list-item {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    text-align: left;
+    color:firebrick;
+    outline-color: black;
+}

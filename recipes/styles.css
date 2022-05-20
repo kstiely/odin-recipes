@@ -1,0 +1,10 @@
+#title {
+    font-size: 64px;
+    text-align: center;
+}
+
+/*Don't know how to center the picture at the moment while keeping it center during window resizing*/
+.image {
+    height: auto;
+    width: 500px;
+}
